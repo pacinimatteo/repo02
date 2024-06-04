@@ -1,1 +1,2 @@
 Hotfix commit 1
+Hotfix commit 2
