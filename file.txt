@@ -7,3 +7,4 @@ Conflicting commit on feature_x
 Commit post conflitto 1
 Commit post conflitto 2
 Commit 4
+Commit 5
