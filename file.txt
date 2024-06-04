@@ -1,2 +1,1 @@
-primo commit
-Secondo commit
+Conflicting commit on feature_x
