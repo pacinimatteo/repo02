@@ -2,3 +2,5 @@ primo commit
 Secondo commit
 Commit A
 Commit B
+=======
+Conflicting commit on feature_x
