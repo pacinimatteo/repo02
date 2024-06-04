@@ -4,3 +4,4 @@ Commit A
 Commit B
 =======
 Conflicting commit on feature_x
+Commit post conflitto 1
